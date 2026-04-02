@@ -30,4 +30,4 @@ More advanced view construction and attribution extensions are omitted.
 
 ## File
 
-- `portfolio_construction_bl.py` — core research pipeline
+- `portfolio_construction_bl_github.py` — core research pipeline

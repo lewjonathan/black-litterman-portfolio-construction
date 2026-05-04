@@ -53,3 +53,5 @@ More advanced view construction and attribution extensions are omitted.
 ## File
 
 - `portfolio_construction_bl_github.py` — core research pipeline
+
+Note: This repository contains a public redacted version. Exact implementation details, private parameters, diagnostic plots, and full outputs are omitted. The focus is on research workflow, validation structure, and interpretation.

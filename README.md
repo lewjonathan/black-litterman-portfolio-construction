@@ -2,6 +2,8 @@
 
 This project explores portfolio construction in a small multi-asset setting using constrained optimization and Black–Litterman expected return updates.
 
+Note: This repository contains a public redacted version. Exact implementation details, private parameters, diagnostic plots, and full outputs are omitted. The focus is on research workflow, validation structure, and interpretation.
+
 ## Results Summary
 
 Out-of-sample evaluation (mid-2024 to end-2025) highlights several key observations:
@@ -53,5 +55,3 @@ More advanced view construction and attribution extensions are omitted.
 ## File
 
 - `portfolio_construction_bl_github.py` — core research pipeline
-
-Note: This repository contains a public redacted version. Exact implementation details, private parameters, diagnostic plots, and full outputs are omitted. The focus is on research workflow, validation structure, and interpretation.

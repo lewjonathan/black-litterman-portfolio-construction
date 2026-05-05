@@ -2,7 +2,7 @@
 
 This project explores portfolio construction in a small multi-asset setting using constrained optimization and Black–Litterman expected return updates.
 
-Note: This repository contains a public redacted version. Exact implementation details, private parameters, diagnostic plots, and full outputs are omitted. The focus is on research workflow, validation structure, and interpretation.
+**Note: This repository contains a public redacted version. Exact implementation details, private parameters, diagnostic plots, and full outputs are omitted. The focus is on research workflow, validation structure, and interpretation.**
 
 ## Results Summary
 
